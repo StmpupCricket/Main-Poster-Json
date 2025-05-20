@@ -22,5 +22,11 @@
     "title": "The Flash",
     "url": "https://webplayer-live.pages.dev?url=https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
     "download": "https://download.example.com/content/sintel/hls/playlist.m3u8"
+  },
+  {
+    "image": "https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "title": "New Movie",
+    "url": "https://webplayer-live.pages.dev?url=https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "download": "https://download.example.com/content/sintel/hls/playlist.m3u8"
   }
 ]
